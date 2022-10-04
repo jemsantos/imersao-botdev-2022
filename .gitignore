@@ -1,0 +1,8 @@
+# Dependency directories
+binance-spot/node_modules/
+
+# aulas
+docs/
+
+# variaves ambiente
+binance-spot/.env
