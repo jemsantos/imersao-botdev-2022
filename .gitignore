@@ -6,3 +6,4 @@ docs/
 
 # variaves ambiente
 binance-spot/.env
+binance-future/.env
