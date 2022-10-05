@@ -1,5 +1,6 @@
 # Dependency directories
 binance-spot/node_modules/
+binance-future/node_modules/
 
 # aulas
 docs/
