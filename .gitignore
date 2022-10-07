@@ -1,6 +1,7 @@
 # Dependency directories
 binance-spot/node_modules/
 binance-future/node_modules/
+pancakeswap/node_modules/
 
 # aulas
 docs/
@@ -8,3 +9,11 @@ docs/
 # variaves ambiente
 binance-spot/.env
 binance-future/.env
+pancakeswap/.env
+
+# makdowns do prof
+binance-spot/README_botdev.md
+binance-future/README_botdev.md
+pancakeswap/README_botdev.md
+
+README_botdev.md
